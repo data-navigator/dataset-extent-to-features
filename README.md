@@ -1,6 +1,7 @@
 
-###DatasetExtentToFeatures
+### DatasetExtentToFeatures
 Geoprocessing tool that takes many geodataset as input, and creates a new polygon feature class of the extent of the input geodatasets. 
+Taken from https://github.com/arcpy/sample-gp-tools
 
 ### Parameters
 

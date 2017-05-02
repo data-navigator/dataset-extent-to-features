@@ -12,4 +12,4 @@ Taken from https://github.com/arcpy/sample-gp-tools
 * The output feature class.  This feature class will contain one polygon for each of the input geodataset.  The output will be in WGS 1984 Geographic coordinate system.  This is to insure that datasets with disparate extents and coordinate systems can all be successfully stored in the output feature class.  
 
 
-![DataSetExtentToFeatures Result Image](DatasetExtentToFeatures.png  "Inputs of various types, output rendered as hashed polygons")
+![DataSetExtentToFeatures Result Image](img/DatasetExtentToFeatures.png  "Inputs of various types, output rendered as hashed polygons")

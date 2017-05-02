@@ -7,7 +7,7 @@ build:
 
 source:
   git_rev: HEAD
-  git_url: https://devtopia.esri.com/clin8331/arcpy-refactor.git
+  git_url: https://github.com/data-navigator/dataset-extent-to-features.git
 
 requirements:
   build:
@@ -15,8 +15,7 @@ requirements:
     - setuptools
   run:
     - python
-    - arcgisscripting
 
 about:
-  home: https://devtopia.esri.com/clin8331/arcpy-refactor/
-  license: Esri
+  home: https://github.com/data-navigator/dataset-extent-to-features
+  license: Apache

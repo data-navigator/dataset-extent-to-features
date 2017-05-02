@@ -1,0 +1,22 @@
+package:
+  name: dataset-extent-to-features
+  version: "0.1"
+
+build:
+  number: 0
+
+source:
+  git_rev: HEAD
+  git_url: https://devtopia.esri.com/clin8331/arcpy-refactor.git
+
+requirements:
+  build:
+    - python
+    - setuptools
+  run:
+    - python
+    - arcgisscripting
+
+about:
+  home: https://devtopia.esri.com/clin8331/arcpy-refactor/
+  license: Esri
